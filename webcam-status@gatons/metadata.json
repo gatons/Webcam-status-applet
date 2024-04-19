@@ -1,0 +1,7 @@
+{
+    "description": "Tool for change webcam status",
+    "uuid": "webcam-status@gatons",
+    "name": "Webcam Status",
+    "author": "gatons",
+    "icon": "camera-web"
+}

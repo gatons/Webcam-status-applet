@@ -1,0 +1,27 @@
+{
+   "head" : {
+      "type" : "header",
+      "description" : "Webcam Status settings"
+   },
+   "webcam-disabled": {
+      "type" : "checkbox",
+      "default" : true,
+      "description" : "Webcamera disabled by default"
+   },
+   "status-theme": {
+      "type" : "radiogroup",
+      "default" : 1,
+      "description" : "Theme",
+      "options" : {
+         "Light" : 1,
+         "Dark" : 2
+     }
+   },
+   "div1" : {
+      "type" : "separator"
+   },
+   "head2" : {
+      "type" : "header",
+      "description" : "Please check example file it this applet root folder. /etc/sudoers.d modifications needed!"
+   }
+}
